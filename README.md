@@ -5,7 +5,7 @@ Soy Yamira, **psicóloga** 👩🏻‍🎓 y comprometida con la sociedad. Tras 
 
 ```
 const yamiramartin = {
-pronouns: "she/her",
+  pronouns: "she/her",
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Node.js", "VSCode", "Sass", "Git"],
   softSkills: [organisation, teamwork, resilience, decisive, empathy],
