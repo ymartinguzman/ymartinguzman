@@ -1,5 +1,9 @@
 ### ¡Bienvenid@s a mi perfil!
 
+Soy Yamira, psicóloga y comprometida con la sociedad. Tras 7 años de carrera profesional en el sector hotelero, he decidido reinventarme como desarrolladora Frontend con motivación y pasión para contribuir con mi granito de arena a este mundo de una forma más activa y práctica.
+
+>Si quieres cambiar el mundo, cámbiate a ti mismo – Mahatma Gandhi.
+
 <!--
 **ymartinguzman/ymartinguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
