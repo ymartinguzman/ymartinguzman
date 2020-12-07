@@ -4,16 +4,17 @@ Soy Yamira, **psicóloga** 👩🏻‍🎓 y comprometida con la sociedad. Tras 
 > Si quieres cambiar el mundo, cámbiate a ti mismo – Mahatma Gandhi.
 
 
-`const yamiramartin = {`
- ` pronouns: "she/her",`
-  `code: ["JavaScript", "HTML", "CSS"],`
-  `tools: ["React", "Node.js", "VSCode", "Sass", "Git"],`
-  `softSkills: [organisation, teamwork, resilience, decisive, empathy],`
-  `links: [{`
-    `linkedin: "https://linkedin.com/in/yamiramartinguzman", `
-    `twitter: "https://twitter.com/yamiroynoveo",`
-  `}],`  
-`}`
+```const yamiramartin = {
+  pronouns: "she/her",
+  code: ["JavaScript", "HTML", "CSS"],
+  tools: ["React", "Node.js", "VSCode", "Sass", "Git"],
+  softSkills: [organisation, teamwork, resilience, decisive, empathy],
+  links: [{
+    linkedin: "https://linkedin.com/in/yamiramartinguzman", 
+    twitter: "https://twitter.com/yamiroynoveo",
+  }],  
+}
+```
 
 ## Formación
 * Bootcamp de Programación Frontend [Adalab Digital](https://adalab.es/)
