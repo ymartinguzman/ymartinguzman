@@ -8,24 +8,24 @@ const yamiramartin = {
   pronouns: "she/her",
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Node.js", "VSCode", "Sass", "Git"],
+  softSkills: [organisation, teamwork, resilience, decisive, empathy],
   links: [{
-    linkedin: "https://linkedin.com/in/yamiramartinguzman",
-    instagram: "https://instagram.com/carlosazaustre",
-    twitter: "https://twitter.com/carlosazaustre",
+    linkedin: "https://linkedin.com/in/yamiramartinguzman", 
+    twitter: "https://twitter.com/yamiroynoveo",
   }],
+  certificates: [{
+    adalabDigital: 
 }
 ## Formación
 * Bootcamp de Programación Frontend [Adalab Digital](https://adalab.es/)
 * Workshop [SheCodes](https://www.shecodes.io/)
 
-## Tecnologías
-* HTML5, CSS3, SASS, 
-* JavaScript
-* React.js 
-*
+
 
 ## Contacto
-📧 yamiramartinguzman@gmail.com * * * [Linkedin](https://www.linkedin.com/in/yamiramartinguzman/)
+📧 yamiramartinguzman@gmail.com   
+[Linkedin](https://www.linkedin.com/in/yamiramartinguzman/)  
+[Twitter] (https://twitter.com/yamiroynoveo)
 
 
 <!--
