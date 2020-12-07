@@ -15,7 +15,7 @@ Soy Yamira, **psicóloga** 👩🏻‍🎓 y comprometida con la sociedad. Tras 
 *
 
 ## Contacto
-📧 yamiramartinguzman@gmail.com  *** Linkedin [SheCodes](https://www.linkedin.com/in/yamiramartinguzman/)
+📧 yamiramartinguzman@gmail.com___[Linkedin](https://www.linkedin.com/in/yamiramartinguzman/)
 
 
 <!--
