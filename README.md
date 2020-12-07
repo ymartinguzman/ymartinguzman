@@ -3,7 +3,8 @@
 Soy Yamira, **psicóloga** 👩🏻‍🎓 y comprometida con la sociedad. Tras 7 años de carrera profesional en el **sector hotelero** 🏨🛎️ decidí reinventarme como **Desarrolladora Frontend** con motivación y pasión por contribuir con mi **granito de arena** a este mundo 🌍 de una forma más activa y práctica. 
 > Si quieres cambiar el mundo, cámbiate a ti mismo – Mahatma Gandhi.
 
-```const yamiramartin = {
+```
+const yamiramartin = {
 pronouns: "she/her",
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Node.js", "VSCode", "Sass", "Git"],
