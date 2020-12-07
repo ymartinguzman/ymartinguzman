@@ -9,7 +9,7 @@ const yamiramartin = {
   code: ["JavaScript", "HTML", "CSS"],
   tools: ["React", "Node.js", "VSCode", "Sass", "Git"],
   links: [{
-    [Linkedin]: "https://linkedin.com/in/yamiramartinguzman",
+    linkedin: "https://linkedin.com/in/yamiramartinguzman",
     instagram: "https://instagram.com/carlosazaustre",
     twitter: "https://twitter.com/carlosazaustre",
   }],
