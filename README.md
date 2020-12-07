@@ -1,14 +1,23 @@
 ### ¡Bienvenid@s a mi perfil!
 
-Soy Yamira, **psicóloga** 👩🏻‍🎓y comprometida con la sociedad. Tras 7 años de carrera profesional en el sector hotelero 🏨🛎️, he decidido reinventarme como Desarrolladora Frontend con motivación y pasión por contribuir con mi granito de arena a este mundo 🌍 de una forma más activa y práctica.
+Soy Yamira, **psicóloga** 👩🏻‍🎓 y comprometida con la sociedad. Tras 7 años de carrera profesional en el sector hotelero 🏨🛎️, he decidido reinventarme como Desarrolladora Frontend con motivación y pasión por contribuir con mi granito de arena a este mundo 🌍 de una forma más activa y práctica.
 
 > Si quieres cambiar el mundo, cámbiate a ti mismo – Mahatma Gandhi
 
-##Certificados
-*Bootcamp de Programación Frontend [Adalab Digital](https://adalab.es/)
+## Certificados
+* Bootcamp de Programación Frontend [Adalab Digital](https://adalab.es/)
+* Workshop [SheCodes](https://www.shecodes.io/)
 
-##Contacto
+## Tecnologías
+* HTML5, CSS3, SASS, 
+* JavaScript
+* React.js 
+*
+
+## Contacto
 📧 yamiramartinguzman@gmail.com  
+
+
 <!--
 **ymartinguzman/ymartinguzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
