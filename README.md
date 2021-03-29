@@ -1,4 +1,4 @@
-## ¡Bienvenid@s a mi perfil!
+## ¡Hola!👋
 
 Soy Yamira, **psicóloga** 👩🏻‍🎓 y ahora **desarrolladora frontend junior** 👩‍💻. Tras 7 años de carrera profesional en el **sector hotelero** 🏨🛎️ decidí reinventarme y trasladar mi motivación y mi pasión por contribuir a este mundo 🌍 con mi **granito de arena** de una forma más activa y práctica desarrollando productos en el entorno web
 > La inspiración existe, pero tiene que encontrarte trabajando – Pablo Picasso.
@@ -7,7 +7,7 @@ Soy Yamira, **psicóloga** 👩🏻‍🎓 y ahora **desarrolladora frontend jun
 const yamiramartin = {
   pronouns: "she/her",
   code: ["JavaScript", "HTML", "CSS"],
-  tools: ["React", "Node.js", "VSCode", "Sass", "Git"],
+  tools: ["React", "npm", "VSCode", "Sass", "Git"],
   softSkills: [organisation, teamwork, resilience, decisive, empathy],
  };
 ```
