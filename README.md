@@ -1,7 +1,7 @@
 ## ¡Hola!👋
 
 Soy Yamira, **desarrolladora frontend junior** 👩‍💻 y también **psicóloga** 👩🏻‍🎓 . Tras 7 años de carrera profesional en el **sector hotelero** 🏨🛎️ decidí reinventarme y trasladar mi motivación y mi pasión por contribuir a este mundo 🌍 con mi **granito de arena** de una forma más activa y práctica desarrollando productos en el entorno web.
-¿Quieres ver mi [Portfolio](https://ymartinguzman.github.io/Portfolio/)?
+Aquí puedes ver mi [Portfolio](https://ymartinguzman.github.io/Portfolio/)
 > La inspiración existe, pero tiene que encontrarte trabajando – Pablo Picasso.
 
 ```
